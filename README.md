@@ -1,0 +1,2 @@
+# Rofi configs
+# rofi-config
